@@ -1,4 +1,4 @@
-module ntop001/web3lib
+module github.com/ntop001/web3lib
 
 go 1.17
 
