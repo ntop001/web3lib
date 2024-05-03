@@ -1,0 +1,22 @@
+# cache file
+cache.json*
+canBeIgnored.json*
+nftInfo.json*
+*.sqlite
+
+opensea-watcher
+*-linux-amd64
+
+bin
+.idea
+server2
+nohup.out
+
+.env
+.env.*
+*.log
+
+store/datasource/*.test
+outputs
+
+.DS_Store
